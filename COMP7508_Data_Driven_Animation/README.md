@@ -19,4 +19,3 @@ Details: [[subfolder](./assignment_1)]
 - Do the evaluation with CCD IK (Task 3, 10%)
 - Report (10%)
 
-Pls, contact zycliao@cs.hku.hk or myshi@cs.hku.hk if there is any question.
